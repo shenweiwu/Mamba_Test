@@ -38,3 +38,5 @@ input_tensor = torch.randn(1, 3, 256, 256)
 output_tensor = model(input_tensor)
 print("Input tensor shape:", input_tensor.shape)
 print("Output tensor shape:", output_tensor.shape)
+
+print("ceshi")
